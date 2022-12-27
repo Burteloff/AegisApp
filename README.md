@@ -1,4 +1,4 @@
-Скачайте файл: https://github.com/Burteloff/AegisApp/releases/tag/v1.0.0
+Скачайте файл: [https://github.com/Burteloff/AegisApp/releases/tag/v1.0.0](https://github.com/Burteloff/AegisApp/archive/refs/tags/v1.0.0.zip)
 
 Если у вас уже был скачан файл -> удалить содержимое, после чего переместите в папку содержимое архива (Вот эти три файла: https://www.dropbox.com/s/24k381glc5z599m/howdelete.jpg?dl=0 )
 
